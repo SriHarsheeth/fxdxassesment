@@ -1,0 +1,62 @@
+.app {
+    width: 1512px;
+    margin: 0 auto;
+    background-color: red;
+    height: 3000px;
+    position: relative;
+}
+
+.comp2 {
+    top: 982px;
+    position: absolute;
+}
+
+.comp3 {
+    top: 1758px;
+    position: absolute;
+}
+
+.comp4 {
+    top: 2222px;
+    position: absolute;
+}
+
+.comp5 {
+    top: 3418px;
+    position: absolute;
+}
+
+.comp6 {
+    top: 4230px;
+    position: absolute;
+}
+
+.comp7 {
+    top: 5300px;
+    position: absolute;
+}
+
+.comp8 {
+    top: 6050px;
+    position: absolute;
+}
+
+.comp9 {
+    top: 7120px;
+    position: absolute;
+}
+
+.comp10 {
+    top: 7872px;
+    position: absolute;
+}
+
+.comp11 {
+    top: 8622px;
+    position: absolute;
+}
+
+.comp12 {
+    top: 9212px;
+    position: absolute;
+}
